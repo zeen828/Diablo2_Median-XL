@@ -1,6 +1,8 @@
 # Diablo2_Median-XL
 Median-XL Documentation
 
+**目录 (Table of Contents)**
+
 [TOCM]
 
 [TOC]
