@@ -57,7 +57,7 @@ Median-XL Documentation
     + 列表一
 
 ### 特殊物品
-###### 分解
+###### 分解![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 ###### 分解
 ###### 碎片
 @水晶
