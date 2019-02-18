@@ -57,15 +57,15 @@ Median-XL Documentation
     + 列表一
 
 ### 特殊物品
-###### 分解![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-###### 分解
-###### 碎片
-@水晶
-###### 水
-###### 水
-###### 分解水
-###### 強化水
-###### 幸運水
++ 分解![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 分解![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 碎片![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 水晶![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 分解水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 強化水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 幸運水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 
 ### 珠寶
 
