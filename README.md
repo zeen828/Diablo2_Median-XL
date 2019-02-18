@@ -1,4 +1,4 @@
-# Diablo2_Median-XL
+# Diablo 2 Median-XL
 Median-XL Documentation
 
 #相關網址
