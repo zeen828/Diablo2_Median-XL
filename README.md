@@ -1,6 +1,17 @@
 # Diablo2_Median-XL
 Median-XL Documentation
 
+[TOCM]
+
+[TOC]
+
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
 [Heading link](https://github.com/zeen828/Diablo2_Median-XL/blob/master/README.md "Heading link")
 
 #相關網址
