@@ -1,13 +1,13 @@
 # Diablo 2 Median-XL
 Median-XL Documentation
 
-##### 相關網址
+#### 相關網址
 
 [Median XL](https://www.median-xl.com/)
 [中文化](https://drive.google.com/drive/folders/1CUXpvFurxp30d-V_qqvnzP39B0U_Bv9b?usp=sharing
 )
 
-##### 安裝教學
+### 安裝教學
 
 1. 安裝原版暗黑
 2. 安裝Median XL
