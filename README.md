@@ -14,6 +14,8 @@ Median-XL Documentation
 3. 關閉Median XL介面，複製中文化檔到暗黑目錄
 4. 重啟Median XL點右上齒輪設定視窗解析度和語系
 
+#特殊物品
+
 #魔方公式
 + 武器
     + 生一階
