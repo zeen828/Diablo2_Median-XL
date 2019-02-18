@@ -16,6 +16,15 @@ Median-XL Documentation
 4. 重啟Median XL點右上齒輪設定視窗解析度和語系
 
 ### 魔方公式
++ 材料
+    + 奧術碎片
+        >暗金非神聖裝備 + 祛魅催化劑
+    + 奧術水晶
+        >奧術碎片(5)
+    + 奧術集群
+        >奧術水晶 + 工藝油
+    + 學習的印記
+        >暗金神聖裝備 + 學習催化劑
 + 武器
     + 升階
         非神聖4階以下武器 + 一顆 @水晶
@@ -57,15 +66,16 @@ Median-XL Documentation
     + 列表一
 
 ### 特殊物品
-+ 分解![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 分解![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 碎片![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 水晶![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 分解水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 強化水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 幸運水![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 催化劑 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 催化劑 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 分解油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 強化油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 幸運油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 奧術碎片 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 奧術水晶 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 學習的印記 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 
 ### 珠寶
 
