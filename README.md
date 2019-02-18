@@ -7,9 +7,13 @@ Median-XL Documentation
 )
 
 #安裝教學
+
 1.安裝原版暗黑
+
 2.安裝Median XL
+
 3.關閉Median XL介面，複製中文化檔到暗黑目錄
+
 4.重啟Median XL點右上齒輪設定視窗解析度和語系
 
 #魔方公式
