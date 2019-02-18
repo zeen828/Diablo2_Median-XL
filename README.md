@@ -24,4 +24,4 @@ Median-XL Documentation
 + 惡夢
     + 莫非斯托
 + 地獄
-    * 列表一
+    + 列表一
