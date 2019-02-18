@@ -4,6 +4,7 @@ Median-XL Documentation
 ### 相關網址
 
 [Median XL](https://www.median-xl.com/)
+
 [中文化](https://drive.google.com/drive/folders/1CUXpvFurxp30d-V_qqvnzP39B0U_Bv9b?usp=sharing
 )
 
