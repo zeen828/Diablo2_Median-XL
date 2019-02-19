@@ -17,43 +17,36 @@ Median-XL Documentation
 
 ### 魔方公式
 + 任務
-    + 杖
-        >奧術水晶(2) + 治療藥水
-    + 捶
-        >奧術水晶(2) + 法力藥水
+    + 第二章任務杖
+        >祕法水晶(2) + 治療藥水
+    + 第三章任務鎚
+        >祕法水晶(2) + 法力藥水
     + 母牛
         >維特的腿
     + 公牛
         >維特的另一隻腿
 + 材料
-    + 奧術碎片
-        >暗金非神聖裝備 + 祛魅催化劑
-    + 奧術水晶
-        >奧術碎片(5)
-    + 奧術集群
-        >奧術水晶 + 工藝油
+    + 祕法碎片
+        >暗金裝備(獨特物品) + 分解催化劑
+    + 祕法水晶
+        >祕法碎片(5)
+    + 祕法族群
+        >祕法水晶 + 鍛造油
     + 學習的印記
-        >暗金神聖裝備 + 學習催化劑
-+ 武器
+        >神聖暗金裝備(神聖獨特)/套裝 + 學習催化劑
+    + 聖壇容器
+        >任意聖壇(限10次未用) + 鍛造油
++ 裝備
     + 升階
-        非神聖4階以下武器 + 一顆 @水晶
-        `非神聖4階以下武器 + 一顆 @水晶`
-        >非神聖4階以下武器 + 一顆 @水晶
+        >非神聖4階以下武器 + 祕法水晶
+        >非神聖4階以下武器 + 祕法水晶
+        >非神聖4階以下武器 + 祕法水晶
     + 轉獨特暗金
-        >非神聖武器 + 二顆@水晶 + 強化水
+        >非神聖武器 + 祕法水晶(2) + 強化水
     + 綠
         >
     + 手工藝品
-        >神聖武器 + 對應十字架
-+ 防具
-    + 升階
-        >非神聖4階以下防具 + 一顆水晶
-    + 轉獨特暗金
-        >非神聖防具 + 二顆水晶 + 強化水
-    + 綠
-        >
-    + 手工藝品
-        >神聖防具 + 對應十字架
+        >神聖武器 + 對應聖壇
 + 寶石
     + 生一階
         >二顆一樣的
@@ -64,7 +57,7 @@ Median-XL Documentation
         >一顆
 + 珠寶
     + 手工藝品
-        >黃色珠寶 + 對應符文 + 強化水+碎片
+        >黃色珠寶 + 對應符文 + 鍛造油 + 碎片
 
 ### 挑戰 裂縫 地下城
 + 普通
@@ -75,16 +68,19 @@ Median-XL Documentation
     + 列表一
 
 ### 特殊物品
-+ 催化劑 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 催化劑 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 分解油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 分解催化劑 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 學習催化劑 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 好運油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 分離油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 + 強化油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 幸運油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 奧術碎片 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
-+ 奧術水晶 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 翻新油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 鍛造油 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 神秘之球 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 祕法碎片 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 祕法水晶 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 祕法族群 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 + 學習的印記 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
++ 注入標記 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 
 ### 珠寶
 
