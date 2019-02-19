@@ -79,7 +79,7 @@ Median-XL Documentation
 + 祕法碎片 ![](https://github.com/zeen828/Diablo2_Median-XL/blob/master/images/祕法碎片.png)
 + 祕法水晶 ![](https://github.com/zeen828/Diablo2_Median-XL/blob/master/images/祕法水晶.png)
 + 祕法族群 ![](https://github.com/zeen828/Diablo2_Median-XL/blob/master/images/祕法族群.png)
-+ 學習的印記 ![](https://github.com/zeen828/Diablo2_Median-XL/blob/master/images/祕法水晶.png)
++ 學習的印記 ![](https://github.com/zeen828/Diablo2_Median-XL/blob/master/images/學習的印記.png)
 + 注入標記 ![](https://github.com/zeen828/Diablo2_Median-XL/blob/master/images/注入標記.png)
 
 ### 珠寶
